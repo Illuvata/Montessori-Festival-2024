@@ -87,13 +87,18 @@
 </body>
 <!DOCTYPE html>
 <html lang="de">
+<!DOCTYPE html>
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meine Website</title>
+    <title>Meine Bild-Hintergrund-Website</title>
     <style>
         body {
-            background-color: #3498db; /* Hier kannst du den Farbcode ändern */
+            background-image: url('pfad/zum/deiner/hintergrundbild.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
