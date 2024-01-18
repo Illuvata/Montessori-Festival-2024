@@ -85,8 +85,28 @@
     window.onload = openPopup;
 </script>
 </body>
-
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine Website</title>
+    <style>
+        body {
+            background-color: #3498db; /* Hier kannst du den Farbcode ändern */
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        /* Füge hier weitere Stile für den Inhalt deiner Website hinzu */
+    </style>
+</head>
+<body>
+    <!-- Hier kommt der Inhalt deiner Website -->
+    <h1>Willkommen auf meiner Website!</h1>
     <p>Dies ist ein einfacher einfarbiger Hintergrund.</p>
+</body>
+</html>
 </body>
 </html>
 <body>
