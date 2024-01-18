@@ -85,16 +85,13 @@
     window.onload = openPopup;
 </script>
 </body>
-<!DOCTYPE html>
 <html lang="de">
-<!DOCTYPE html>
 <html lang="de">
 <body>
     <!-- Hier kommt der Inhalt deiner Website -->
     <h1>Willkommen auf meiner Website!</h1>
 </body>
 </html>
-<body>
     <h2>Inhalt:</h2>
     <nav>
         <a href="#Infos">Informationen</a> <br>
