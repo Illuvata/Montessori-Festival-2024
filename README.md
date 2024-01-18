@@ -21,7 +21,7 @@
             align-items: center;
         }
         .popup {
-            background-color: #fff; /* Weiß */
+            background-color: #0000FF; /* Blue */
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Schwarzer Schatten */
@@ -89,23 +89,6 @@
 <html lang="de">
 <!DOCTYPE html>
 <html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meine Bild-Hintergrund-Website</title>
-    <style>
-        body {
-            background-image: url('pfad/zum/deiner/hintergrundbild.jpg');
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-        }
-        /* Füge hier weitere Stile für den Inhalt deiner Website hinzu */
-    </style>
-</head>
 <body>
     <!-- Hier kommt der Inhalt deiner Website -->
     <h1>Willkommen auf meiner Website!</h1>
