@@ -92,9 +92,6 @@
 <body>
     <!-- Hier kommt der Inhalt deiner Website -->
     <h1>Willkommen auf meiner Website!</h1>
-    <p>Dies ist ein einfacher einfarbiger Hintergrund.</p>
-</body>
-</html>
 </body>
 </html>
 <body>
