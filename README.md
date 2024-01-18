@@ -89,14 +89,14 @@
 <body>
     <h2>Inhalt:</h2>
     <nav>
-        <a href="#einführung">Einführung</a> <br>
+        <a href="#Infos">Informationen</a> <br>
         <a href="#ursachen">Ursachen</a> <br>
         <a href="#verlauf">Verlauf</a> <br>
         <a href="#Infos der Feind-Freundkräfte">Infos der Feind-Freundkräfte</a> <br>
         <a href="#quellen">Quellen</a>
     </nav>
     <main>
-            <h2>Einführung</h2>
+            <h2>Informationen</h2>
     <p>Der Mali-Konflikt ist ein anhaltender politischer und bewaffneter Konflikt in der westafrikanischen Republik Mali. Dieser Konflikt hat komplexe Ursachen, die historische, soziale, wirtschaftliche und ethnische         Elemente umfassen.</p>
     <p>Die Krise begann 2012, als verschiedene bewaffnete Gruppen, darunter separatistische Tuareg-Rebellen und islamistische Extremisten, große Teile des Nordens von Mali eroberten. Dies führte zu politischer                Instabilität und einer humanitären Krise in der Region.</p>
     <p>Internationale Bemühungen, einschließlich Interventionen der Vereinten Nationen und regionaler Partner, wurden unternommen, um Frieden und Stabilität wiederherzustellen. Trotzdem bleibt die Situation komplex,            und der Konflikt hat weitreichende Auswirkungen auf die Menschen in Mali und die umliegenden Regionen.</p>
