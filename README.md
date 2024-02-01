@@ -89,7 +89,7 @@
 <html lang="de">
 <body>
     <!-- Hier kommt der Inhalt deiner Website -->
-    <h1>Willkommen auf der Website dea Festivals!</h1>
+
     <p>Der Mali-Konflikt ist ein anhaltender politischer und bewaffneter Konflikt in der westafrikanischen Republik Mali. Dieser Konflikt hat komplexe Ursachen, die historische, soziale, wirtschaftliche und ethnische         Elemente umfassen.</p>
     <p>Die Krise begann 2012, als verschiedene bewaffnete Gruppen, darunter separatistische Tuareg-Rebellen und islamistische Extremisten, große Teile des Nordens von Mali eroberten. Dies führte zu politischer                Instabilität und einer humanitären Krise in der Region.</p>
     <p>Internationale Bemühungen, einschließlich Interventionen der Vereinten Nationen und regionaler Partner, wurden unternommen, um Frieden und Stabilität wiederherzustellen. Trotzdem bleibt die Situation komplex,            und der Konflikt hat weitreichende Auswirkungen auf die Menschen in Mali und die umliegenden Regionen.</p>
